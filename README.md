@@ -1,11 +1,6 @@
-<style>
-  h1{
-    font-size: 30pt;
-  }
-</style>
-
 <h1 align="center">Speculo</h1>
 <h3 align="center">-- Personal Description --</h3>
+Hi ! My name is Clément, I'm 22yo, I studying Backend Developement and IT Managing in University (Last year of Master). In my free time, I permit to learn some programming languages for my personnal education. Currently working for Sopra Steria in Toulouse in France, one of my goal is just learning for fun. If you are here, it's perhaps for check some of my projects ! So, welcome on my GitHub page buddy !
 <h3 align="center">-- Main Languages & Tools --</h3>
 <ul align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <p> C language </p></a>
