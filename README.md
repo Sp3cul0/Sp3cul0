@@ -1,3 +1,9 @@
+<style>
+  h1{
+    font-size: 30pt;
+  }
+</style>
+
 <h1 align="center">Speculo</h1>
 <h3 align="center">-- Personal Description --</h3>
 <h3 align="center">-- Main Languages & Tools --</h3>
