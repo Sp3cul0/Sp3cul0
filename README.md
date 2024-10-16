@@ -1,7 +1,15 @@
-<h1 align="center">--- Speculo ---</h1>
-<h3 align="center">-- Personal Description --</h3>
-Hi ! My name is Clément, I'm 22yo, I studying Backend Developement and IT Managing in University (Last year of Master). In my free time, I permit to learn some programming languages for my personnal education. Currently working for Sopra Steria in Toulouse in France, one of my goal is just learning for fun. If you are here, it's perhaps for check some of my projects ! So, welcome on my GitHub page buddy !
-<h3 align="center">-- Main Languages & Tools --</h3>
+![GitHub followers](https://img.shields.io/github/followers/Sp3cul0?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/Sp3cul0?style=social)
+
+<h1 align="center" style="font-size: 3em; color: #4CAF50;">--- Speculo ---</h1>
+<h3 align="center" style="color: #2196F3;">-- Personal Description --</h3>
+
+<p align="left" style="font-size: 1.2em; line-height: 1.6em;">
+Hi ! My name is Clément, I'm 22yo, I studying Backend Developement and IT Managing in University (Last year of Master). In my free time, I permit to learn some programming languages for my personnal education. Currently working for Sopra Steria in Toulouse in France, one of my goal is just learning for fun. If you are here, it's perhaps for check some of my projects ! So, welcome on my GitHub page buddy ! 
+</p>
+
+<h3 align="center" style="color: #2196F3;">-- Main Languages & Tools --</h3>
+
 <ul align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> <p> C language </p></a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/> <p> C# (.NET | ASP.NET | Unity) </p></a>
